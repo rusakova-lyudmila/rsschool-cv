@@ -35,6 +35,7 @@ I'm responsible, easily trained, inquisitive, diligent and I love details.
 ## Experience: ##
 
 **Web Developer** - 11/2011 to present
+
 *Promedia, Perm, Perm Region, Russia*
 * Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences
 * Develop project concepts and maintain optimal workflow
@@ -47,11 +48,13 @@ I'm responsible, easily trained, inquisitive, diligent and I love details.
 ## Education: ##
 
 **Bachelor of Science and Master's degree: Applied mathematics and computer science** - 2011
+
 *Perm State University, Perm, Perm Region, Russia*
 
 
 
 **Translator in the field of professional communication** - 2012
+
 *Littera, Perm, Perm Region, Russia*
 
 
