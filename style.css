@@ -1,0 +1,35 @@
+body {
+    width: 100%;
+    max-width: 800px;
+    font: 14pt "Segoe UI", "Helvetica Neue", "Helvetica", Arial, sans-serif;
+    margin: 0 auto;
+}
+main {
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    color: rgb(200, 170, 140);
+}
+.header-block {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+#photo-avatar {
+    width: auto;
+    max-width: 200px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+.contact-block {
+    font-weight: bold;
+}
+.content-block {
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    border-bottom: 2px solid rgb(200, 170, 140);
+}
