@@ -4,11 +4,13 @@
 * **Email:** l.rusakova2108@gmail.com
 
 
+
 ## Summary: ##
 
 Middle Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, PHP OOP, JavaScript, CSS, MySQL. Strong background in project management and customer relations.
 
 I'm responsible, easily trained, inquisitive, diligent and I love details.
+
 
 
 ## Skills: ##
@@ -29,10 +31,10 @@ I'm responsible, easily trained, inquisitive, diligent and I love details.
 * Яндекс.Метрика
 
 
+
 ## Experience: ##
 
 **Web Developer** - 11/2011 to present
-
 *Promedia, Perm, Perm Region, Russia*
 * Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences
 * Develop project concepts and maintain optimal workflow
@@ -41,18 +43,19 @@ I'm responsible, easily trained, inquisitive, diligent and I love details.
 * Carry out quality assurance tests to discover errors and optimize usability
 
 
+
 ## Education: ##
 
 **Bachelor of Science and Master's degree: Applied mathematics and computer science** - 2011
-
 *Perm State University, Perm, Perm Region, Russia*
 
 
-**Translator in the field of professional communication** - 2012
 
+**Translator in the field of professional communication** - 2012
 *Littera, Perm, Perm Region, Russia*
 
 
-**Languages:**
+
+## Languages: ##
 
 **English** - B2
